@@ -1,14 +1,14 @@
 {
-  "main.css": "/baru/static/css/main.b67f2b9d.chunk.css",
-  "main.js": "/baru/static/js/main.f0f11531.chunk.js",
-  "main.js.map": "/baru/static/js/main.f0f11531.chunk.js.map",
-  "runtime~main.js": "/baru/static/js/runtime~main.0ced07a0.js",
-  "runtime~main.js.map": "/baru/static/js/runtime~main.0ced07a0.js.map",
-  "static/js/2.f885ce20.chunk.js": "/baru/static/js/2.f885ce20.chunk.js",
-  "static/js/2.f885ce20.chunk.js.map": "/baru/static/js/2.f885ce20.chunk.js.map",
-  "index.html": "/baru/index.html",
-  "precache-manifest.2193037543e559014f56e562d002f92f.js": "/baru/precache-manifest.2193037543e559014f56e562d002f92f.js",
-  "service-worker.js": "/baru/service-worker.js",
-  "static/css/main.b67f2b9d.chunk.css.map": "/baru/static/css/main.b67f2b9d.chunk.css.map",
-  "static/media/logo.svg": "/baru/static/media/logo.5d5d9eef.svg"
+  "main.css": "/kompilab/static/css/main.b67f2b9d.chunk.css",
+  "main.js": "/kompilab/static/js/main.ce489f7a.chunk.js",
+  "main.js.map": "/kompilab/static/js/main.ce489f7a.chunk.js.map",
+  "runtime~main.js": "/kompilab/static/js/runtime~main.b0b27381.js",
+  "runtime~main.js.map": "/kompilab/static/js/runtime~main.b0b27381.js.map",
+  "static/js/2.f885ce20.chunk.js": "/kompilab/static/js/2.f885ce20.chunk.js",
+  "static/js/2.f885ce20.chunk.js.map": "/kompilab/static/js/2.f885ce20.chunk.js.map",
+  "index.html": "/kompilab/index.html",
+  "precache-manifest.0bec54a351c0f033345e2bd22b90e7b7.js": "/kompilab/precache-manifest.0bec54a351c0f033345e2bd22b90e7b7.js",
+  "service-worker.js": "/kompilab/service-worker.js",
+  "static/css/main.b67f2b9d.chunk.css.map": "/kompilab/static/css/main.b67f2b9d.chunk.css.map",
+  "static/media/logo.svg": "/kompilab/static/media/logo.5d5d9eef.svg"
 }
